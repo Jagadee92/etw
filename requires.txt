@@ -1,0 +1,5 @@
+python language py3
+fastapi--API
+mysql---db
+sqlalchamy -----db connector
+importing of pydantic packages
